@@ -1,0 +1,22 @@
+{
+    "logo": {
+        "type": "file",
+        "source": "/etc/weenexOS/logo.txt",
+	"color": {
+	    "1": "yellow"
+}
+    },
+
+    "modules": [
+        "title",
+        "separator",
+        "os",
+        "kernel",
+        "uptime",
+        "packages",
+        "shell",
+        "terminal",
+        "cpu",
+        "memory"
+    ]
+}
